@@ -1,0 +1,146 @@
+/*stylesheet for personal website*/
+
+body{
+	font-family: 'Lato', sans-serif;
+	margin: 5em;
+}
+
+.title{
+	font-size: 3em;
+	text-align: center;
+}
+
+.title a:visited{
+  color:#33BAFF;
+}
+
+.title a:hover{
+    text-decoration: none;
+    font-weight:700;
+    color: #33BAFF;
+}
+
+#container-fluid {
+    text-align: justify;
+}
+
+div + div {
+    margin-top: 1em;
+}
+
+a{
+	text-decoration: none;
+}
+
+.sections {
+	font-size: 2em;
+	text-align: center;
+	display: inline-block;
+    color: #33BAFF;
+}
+
+.sections a{
+    width: 100%;
+    height: 100%;
+    color: #33BAFF;
+}
+
+.sections a:hover{
+    text-decoration: none;
+    font-weight:700;
+    color: #33BAFF;
+}
+
+.sections img{
+    width:20vw;
+    height:27vw;
+}
+
+.stretch {
+    width: 75%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+}
+
+.bold_text{
+	font-size: 1em;
+	font-weight: 900;
+}
+
+.resumeheader {
+	font-size: 1.5em;
+	color: #33BAFF;
+    font-weight: 900;
+}
+
+.hometext{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.abouttext{
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.contacttext{
+    display: inline-block;
+    text-align: center;
+    font-size: 1.5em;
+    overflow-wrap:break-word;
+    padding: 4em;
+    position: absolute;
+}
+
+.project{
+    display: inline-block;
+    text-align: center;
+}
+
+.project img{
+    display: inline-block;
+    width: 20em;
+    height: 20em;
+    margin: 5%;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+
+.description{
+    position:absolute;
+    background:rgba(0, 0, 0, 0.85);
+    height:100%;
+    padding:15%;
+    display: none;
+    color:#fff;
+    z-index:2;
+    font-size: 1.3em;
+}
+
+.form{
+    text-align: left;
+    font-size: 1.1em;
+    margin: auto;
+    font-weight: 400;
+}
+
+.submission {
+    background-color:#33bbff;
+    border-radius:3em;
+    border:1px solid #33bbff;
+    display:inline-block;
+    color:#ffffff;
+    font-size:.7em;
+    padding:0.5em 0.5em;
+}
+
+.submission:hover {
+    background-color:#2faceb;
+}
+
+.submission:active {
+    position:relative;
+    top:1px;
+}
