@@ -1,8 +1,9 @@
-# nilabanerjee
-This is Nila Banerjee's repository circa 2017
-<!--This is the framework of my home page. I still have to fix a lot of the formatting issues and aesthetics, but for now I was trying to just get all of the elements onto the page.-->
 
-<!DOCTYPE html>
+<!--# nilabanerjee
+This is Nila Banerjee's repository circa 2017
+This is the framework of my home page. I still have to fix a lot of the formatting issues and aesthetics, but for now I was trying to just get all of the elements onto the page.-->
+
+
 <html>
   <head>
   <meta charset="utf-8">
