@@ -2,9 +2,9 @@
  
     $('.project').hover(
         function(){
-            $(this).find('.description').slideDown(250); //.fadeIn(250)
+            $(this).find('.description').slideDown(350); //.fadeIn(250)
         },
         function(){
-            $(this).find('.description').slideUp(250); //.fadeOut(205)
+            $(this).find('.description').slideUp(350); //.fadeOut(205)
         }
     ); 
