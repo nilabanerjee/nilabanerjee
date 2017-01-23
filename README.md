@@ -21,7 +21,7 @@ This is the framework of my home page. I still have to fix a lot of the formatti
   <body>
   <p class = "title"> NILA BANERJEE </p>
   <div class = "hometext">
-    <p> Hi! My name isxxx Nila. I’m passionate about the human side of technology and improving lives with better products. </p> 
+    <p> Hi! My name is Nila. I’m passionate about the human side of technology and improving lives with better products. </p> 
   </div>
   <div id = "container-fluid" class = "row-fluid">
     <div> </div>
